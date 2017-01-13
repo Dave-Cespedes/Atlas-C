@@ -137,8 +137,8 @@ void dropLiftFullSpeed()// Will drop the lift at full negative speed down.
 
 /*----------------------------------------------------------------------------------------------------------------------------------------//
 // TEAM AUTONS																																																														//
-// Also I am very sorry I took control of all the porgramming this entire year but I really believe you all have untapped potential				//
-// so please program as you see fit. I really want to include you guys on the team Thank you for everything.															//
+// Also I am very sorry I took control of all the programming this entire year but I really believe you all have untapped potential,				//
+// so please program as you see fit. I really want to include you guys on the team. Thank you for everything.															//
 // P.S If you don't know how to use the voids I made then ignore them they are basically just folders in the programming you can always		//
 // refer to. 	
 //
@@ -221,6 +221,9 @@ void DonR() //1st auton. UNTESTED// by non-other than Efrain
 //
 void Dave()
 {	//Write auton here
+	// startMotor(RightFront,100)
+	// startMotor(RightRear,100)
+	//
 
 }
 
