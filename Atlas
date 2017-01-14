@@ -226,7 +226,51 @@ void DonR() //1st auton. UNTESTED// by non-other than Efrain
 //
 void Dave()
 {	//Write auton here
-
+	// startMotor(RightRear, );
+	// startMotor(LeftRear, );
+	// wait(1); // In Seconds (Move the bot forward)
+	// stopMotor(RightRear);
+	// startMotor(RightFront, - );
+	// wait(1); // Turns the bot to face the cube (Right)
+	// stopMotor(RightFront);
+	// startMotor(RightRear, );
+	// wait(1); // Moves the bot forward and the cube in front of it
+	// stopMotor(LeftRear);
+	// stopMotor(RightRear);
+	// startMotor(Claw1, );
+	// startMotor(Claw2, );
+	// wait(1); // Grabs the cube
+	// stopMotor(Claw1);
+	// stopMotor(Claw2);
+	// startMotor(LeftLifts, );
+	// startMotor(RightLifts, ); // THE HEIGHT OF THE LIFT MUST NOT BE TOO HIGH B/C IF IT IS TOO HIGH IT WILL NOT HIT STARS
+	// wait(1); Lifts the cube up
+	// stopMotor(LeftLifts);
+	// stopMotor(RightLifts);
+	// startMotor(RightFront, );
+	// startMotor(LeftRear, - );
+	// wait(1); //Turns the bot left (facing the fence)
+	// stopMotor(RightFront );
+	// startMotor(LeftRear, );
+	// startMotor(RightRear, );
+	// wait(1); //Rams the fence
+	// startMotor(Claw1, - );
+	// startMotor(Claw2, - );
+	// wait(1); // Drops the cube and hopefully hit stars in the process of moving forward
+	// startMotor(LeftLifts, );
+	// startMotor(RightLifts, ); // FULL HEIGHT
+	// startMotor(LeftRear, - );
+	// startMotor(RightFront,); 
+	// wait(1); // Turns left hopefully hitting the Up high stars on the left side of the field
+	// stopMotor(RightFront);
+	// startMotor(LeftRear, );
+	// startMotor(RightRear, );
+	// wait(3); // 
+	// stopMotor(LeftLifts);
+	// stopMotor(RightLifts);
+	// stopMotor(LeftRear);
+	// stopMotor(RightRear);
+	// I NEED TO TEST OUT NUMBERS OF THE MOTORS AND HOW LONG THE WAIT TIMES ARE BUT I HAVE CREATED A VERY GOOD SKELETON OF AN AUTONOMOUS
 }
 
 
